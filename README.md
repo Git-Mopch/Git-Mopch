@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Git-Mopch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ __       __                                __       
+|  \     /  \                              |  \      
+| $$\   /  $$  ______    ______    _______ | $$____  
+| $$$\ /  $$$ /      \  /      \  /       \| $$    \ 
+| $$$$\  $$$$|  $$$$$$\|  $$$$$$\|  $$$$$$$| $$$$$$$\
+| $$\$$ $$ $$| $$  | $$| $$  | $$| $$      | $$  | $$
+| $$ \$$$| $$| $$__/ $$| $$__/ $$| $$_____ | $$  | $$
+| $$  \$ | $$ \$$    $$| $$    $$ \$$     \| $$  | $$
+ \$$      \$$  \$$$$$$ | $$$$$$$   \$$$$$$$ \$$   \$$
+                       | $$                          
+                       | $$                          
+                        \$$                          
+
+
 
 <!---
 Git-Mopch/Git-Mopch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
